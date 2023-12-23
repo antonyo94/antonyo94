@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">◻️ Hadoop<br>◻️ Spark <br>◻️ Hive<br>◻️ SQL Server<br>◻️ SSIS(SQL Server Integration Services)<br>◻️ SSAS(SQL Server Analysis Services)<br>◻️ Power BI</p>
+<p align="left">◻️ Java<br>◻️ Scala<br>◻️ Hadoop<br>◻️ Spark <br>◻️ Hive<br>◻️ SQL Server<br>◻️ SSIS(SQL Server Integration Services)<br>◻️ SSAS(SQL Server Analysis Services)<br>◻️ Power BI</p>
 
 ###
 
@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <a href="//www.linkedin.com/in/antonioabate01" target="_blank">
+  <a href="www.linkedin.com/in/antonioabate01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
