@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'am Antonio, Master's Degree in Applied Computer Science (Machine Learning & Big Data).<br>I came from Italy and I have experience as a Big Data Engineer and Project Manager in Consulting for Italian Public Administration.</p>
+<p align="left">🎓 I'am Antonio, Master's Degree in Applied Computer Science (Machine Learning & Big Data).<br>📃 I came from Italy and I have experience as a Big Data Engineer and Project Manager in Consulting for Italian Public Administration.</p>
 
 ###
 
