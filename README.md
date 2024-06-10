@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">◻️ Cloudera Data Platform Certified Generalist (CDP-0011)<br> ◻️ Scrum.org Professional Scrum Master™ I (PSM I)<br>◻️ AWS Certified Cloud Practitioner <br>◻️ Microsoft Azure Data Fundamentals (DP900)<br>◻️ Neo4j 4.0 Certified<br>◻️ Neo4j Certified Professional<br>◻️ Cloudera Spark and Hadoop Developer(CCA175)</p>
+<p align="left">◻️ Databricks Certified Associate Developer for Apache Spark 3.0<br>◻️ Cloudera Data Platform Certified Generalist (CDP-0011)<br> ◻️ Scrum.org Professional Scrum Master™ I (PSM I)<br>◻️ AWS Certified Cloud Practitioner <br>◻️ Microsoft Azure Data Fundamentals (DP900)<br>◻️ Neo4j 4.0 Certified<br>◻️ Neo4j Certified Professional<br>◻️ Cloudera Spark and Hadoop Developer(CCA175)</p>
 
 ###
 
