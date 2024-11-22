@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I'am Antonio, Master's Degree in Applied Computer Science (Machine Learning & Big Data).<br>📃 I came from Italy and I have experience as a Big Data Engineer and Project Manager in Consulting for Italian Public Administration.</p>
+<p align="left">🎓 I'am Antonio, graduated with a Master's Degree in Applied Computer Science (Machine Learning & Big Data).<br>📃 I came from Italy and I have experience as a Big Data Engineer and Project Manager in Consulting for Italian Public Administration.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about reading, travel and photography<br>📚 I am a curious person and always ready to learn new knowledge<br>🎯 Goals: improve my skills in Data Engineering | Growth in Big Data field | Sharing knowledge</p>
+<p align="left">✨ I am Passionate about reading, traveling and photography<br>📚 I am a curious person and always ready to learn new knowledge<br>🎯 Goals: improve my skills in Data Engineering | Growth in Big Data field | Sharing knowledge</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">◻️ Databricks Certified Associate Developer for Apache Spark 3.0<br>◻️ Cloudera Data Platform Certified Generalist (CDP-0011)<br> ◻️ Scrum.org Professional Scrum Master™ I (PSM I)<br>◻️ AWS Certified Cloud Practitioner <br>◻️ Microsoft Azure Data Fundamentals (DP900)<br>◻️ Neo4j 4.0 Certified<br>◻️ Neo4j Certified Professional<br>◻️ Cloudera Spark and Hadoop Developer(CCA175)</p>
+<p align="left">◻️ MongoDB SI Architect<br>◻️ Databricks Certified Associate Developer for Apache Spark 3.0<br>◻️ Cloudera Data Platform Certified Generalist (CDP-0011)<br> ◻️ Scrum.org Professional Scrum Master™ I (PSM I)<br>◻️ AWS Certified Cloud Practitioner <br>◻️ Microsoft Azure Data Fundamentals (DP900)<br>◻️ Neo4j 4.0 Certified<br>◻️ Neo4j Certified Professional<br>◻️ Cloudera Spark and Hadoop Developer(CCA175)</p>
 
 ###
 
