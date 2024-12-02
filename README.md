@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">◻️ Hadoop<br>◻️ Spark <br>◻️ Hive<br>◻️ SQL Server<br>◻️ SSIS(SQL Server Integration Services)<br>◻️ SSAS(SQL Server Analysis Services)<br>◻️ Power BI<br>◻️ Java<br>◻️ Scala<br>◻️ Git</p>
+<p align="left">◻️ Hadoop<br>◻️ Spark <br>◻️ Hive<br>◻️ SQL Server<br>◻️ SSIS(SQL Server Integration Services)<br>◻️ SSAS(SQL Server Analysis Services)<br>◻️ Power BI<br>◻️ Python<br>◻️ Java<br>◻️ Scala<br>◻️ Git</p>
 
 ###
 
