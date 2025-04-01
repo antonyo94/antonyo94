@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I'am Antonio, graduated with a Master's Degree in Applied Computer Science (Machine Learning & Big Data).<br>📃 I came from Italy and I have experience as a Big Data Engineer and Project Manager in Consulting for Italian Public Administration.</p>
+<p align="left">🎓 I'am Antonio, graduated with a Master's Degree in Applied Computer Science (Machine Learning & Big Data).<br>📃 I came from Italy and I have experience as a Big Data Engineer and Project Manager in Consulting for the Italian Public Administration.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am Passionate about reading, traveling and photography<br>📚 I am a curious person and always ready to learn new knowledge<br>🎯 Goals: improve my skills in Data Engineering | Growth in Big Data field | Sharing knowledge</p>
+<p align="left">✨ I am Passionate about reading, traveling and photography<br>📚 I am a curious person and always eager to learn new knowledge<br>🎯 Goals: improve my skills in Data Engineering | Growth in the Big Data field | Sharing knowledge</p>
 
 ###
 
