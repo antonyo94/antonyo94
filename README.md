@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
 
 <p align="left">
-💼 Technical Project Manager (Data & AI) specialized in delivering end-to-end data-driven solutions.<br>
+💼 Data Engineer & IT Project Manager specialized in delivering end-to-end data-driven solutions<br>
 🎓 Master's Degree in Applied Computer Science (Machine Learning & Big Data) | Licensed Information Engineer (Section A)
 </p>
 
