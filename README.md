@@ -53,7 +53,5 @@
 
 <h2 align="left">🔗 Connect with me</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/antonioabate01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
+  <a href="https://www.linkedin.com/in/antonioabate01" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a><a href="https://www.credly.com/users/antonio-abate/badges#credly" target="_blank"><img src="https://cdn.simpleicons.org/credly/FF6B00" width="52" height="40" alt="credly logo" /></a>
 </div>
