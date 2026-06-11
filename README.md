@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
 
 <p align="left">
-💼 Data Engineer & IT Project Manager specialized in delivering end-to-end data-driven solutions<br>
+💼 IT Project Manager specialized in delivering end-to-end data-driven solutions<br>
 🎓 Master's Degree in Applied Computer Science (Machine Learning & Big Data) | Licensed Information Engineer (Section A)
 </p>
 
@@ -24,30 +24,11 @@
 ◻️ ITIL® 4 Foundation<br><br>
 <b>Data Governance</b><br>
 ◻️ Certified Data Management Professional (CDMP®)<br><br>
-<b>Data Platforms & Engineering</b><br>
-◻️ Databricks Certified Associate Developer for Apache Spark 3.0<br>
-◻️ Cloudera Data Platform Certified Generalist (CDP-0011)<br>
-◻️ Cloudera Spark and Hadoop Developer (CCA175)<br><br>
 <b>Cloud Platforms</b><br>
 ◻️ AWS Certified Cloud Practitioner<br>
 ◻️ Microsoft Azure Data Fundamentals (DP900)<br><br>
-<b>NoSQL</b><br>
-◻️ MongoDB SI Architect<br>
-◻️ Neo4j Certified Professional
 </p>
 
-###
-
-<h2 align="left">💻 Areas of Expertise & Technologies</h2>
-<p align="left">
-◻️ <b>Cloud & Data Platforms</b>: AWS, Microsoft Azure, Databricks, Cloudera CDP<br>
-◻️ <b>Data Engineering</b>: Apache Spark, Hadoop, Hive<br>
-◻️ <b>ETL & Data Modeling</b>: SSIS, SSAS<br>
-◻️ <b>AI & GenAI</b>: Python, NLP, RAG, Fine-Tuning<br>
-◻️ <b>Data Visualization & BI</b>: Power BI, Apache Superset<br>
-◻️ <b>Database & Storage</b>: SQL Server, MongoDB, Neo4j<br>
-◻️ <b>DevOps & Collaboration</b>: Git, Azure DevOps
-</p>
 
 ###
 
